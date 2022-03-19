@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://maxnaylor.github.io/blog</id>
+    <id>https://icelandicgrammar.com/blog</id>
     <title>Icelandic Grammar Blog</title>
     <updated>2015-10-25T23:29:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://maxnaylor.github.io/blog"/>
+    <link rel="alternate" href="https://icelandicgrammar.com/blog"/>
     <subtitle>Icelandic Grammar Blog</subtitle>
-    <icon>https://maxnaylor.github.io/img/favicon.ico</icon>
+    <icon>https://icelandicgrammar.com/img/favicon.ico</icon>
 </feed>
